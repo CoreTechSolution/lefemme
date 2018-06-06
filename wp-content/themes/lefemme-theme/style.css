@@ -853,6 +853,12 @@ header {
     /*border-radius: 5px;*/
     width: 60%;
     vertical-align: middle;
+    border: 1px;
+    border-color: #ddd;
+    background-color: #f4f4f4;
+    color: #444;
+    font-size: 14px;
+    box-sizing: border-box;
 }
 #footer input[type="submit"] {
     text-transform: uppercase;
@@ -1468,6 +1474,8 @@ div.wptrigger_contents:nth-child(1) {
     width: auto !important;
     background-color: #e4248c !important;
     vertical-align: middle;
+    border-radius: 0px !important;
+    box-sizing: border-box;
 }
 ul.cal_nav {
     margin: 0;
