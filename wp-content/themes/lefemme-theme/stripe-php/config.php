@@ -8,3 +8,4 @@ $stripe = array(
 
 \Stripe\Stripe::setApiKey($stripe['secret_key']);
 ?>
+
