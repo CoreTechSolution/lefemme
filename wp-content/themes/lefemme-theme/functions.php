@@ -1519,4 +1519,45 @@ function order_commission() {
     <?php
 }
 
+add_action('admin_menu', 'color_export_submenu');
+function color_export_submenu() {
+	add_menu_page( 'Color Export', 'Color Export', 'manage_options', 'color-export', 'color_export_callback', '', 95);
+}
+function color_export_callback() {
+	include_once TEMPLATEPATH."/admin_color_export.php";
+}
+
+add_action( 'admin_post_color_export_csv', 'color_export_csv' );
+
+function color_export_csv()
+{
+	if ( ! current_user_can( 'manage_options' ) )
+		return;
+
+	ini_set('max_execution_time', 0);
+	$filename = "color_export_" . date( "Y-m-d" ) . ".csv";
+	header('Content-Type: application/csv');
+	header('Content-Disposition: attachment; filename='.$filename);
+	header('Pragma: no-cache');
+	$output = fopen('php://output', 'w');
+
+	$terms = get_terms( array(
+		'taxonomy' => 'pa_color',
+		'hide_empty' => false,
+		'order' => 'ASC',
+	) );
+
+	if(!empty($terms)) {
+		fputcsv($output, array('Name', 'Color 1', 'Color 2'));
+		//$term_array = array(array('Name', 'Color 1', 'Color 2'));
+
+		foreach ( $terms as $term ) {
+			$color  = get_term_meta( $term->term_id, 'color', true );
+			$color1 = get_term_meta( $term->term_id, 'color1', true );
+			//array_push($term_array, array($term->name, $color, $color1));
+			fputcsv($output, array($term->name, $color, $color1));
+		}
+	}
+}
+
 ?>
