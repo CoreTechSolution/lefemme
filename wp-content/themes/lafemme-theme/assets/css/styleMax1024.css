@@ -1,0 +1,15 @@
+#footer input[type="email"] {
+    width: 50%;
+}
+.nav li span {
+    display: none;
+}
+#mega-menu-wrap-mainmenu #mega-menu-mainmenu > li.mega-menu-megamenu > ul.mega-sub-menu {
+    background: rgba(255, 248, 245, 0.5) !important;
+    border: none !important;
+    position: absolute !important;
+    width: 1100px !important;
+    left: -82px !important;
+    margin-top: 22px !important;
+    padding: 0 45px !important;
+}

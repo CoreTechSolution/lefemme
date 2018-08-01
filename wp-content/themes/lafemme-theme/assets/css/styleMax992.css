@@ -1,0 +1,42 @@
+.main_nav {
+    display:none;
+}
+#rspnavigation {
+    display:block;
+}
+#rspnavigation ul{
+    margin: 0;
+    padding: 0;
+}
+.home #header {
+    position: relative;
+    top: 0;
+}
+.nav {
+    text-align: center !important;
+    margin-bottom: 40px;
+}
+.nav_search {
+    position: relative;
+    margin: 20px 0;
+}
+#myHeader.sticky {
+    position: relative;
+}
+.nav_search input[type='text'] {
+    border-left: none;
+    border-bottom: 1px solid #d5d6d8;
+}
+.pro_wrap h3 {
+    text-align: center;
+}
+.pro_wrap p {
+    text-align: center;
+}
+.footer_nav ul {
+    text-align: center;
+}
+.footer_nav li {
+    display: inline-block;
+    padding: 0 10px 15px 10px;
+}
