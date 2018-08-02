@@ -34,6 +34,8 @@
     $terms = get_terms( array(
 	    'taxonomy' => 'product_cat',
 	    'hide_empty' => true,
+	    'meta_key' => 'featured',
+	    'meta_value' => true
     ) );
     if(!empty($terms)) {
         $i = 0;
