@@ -1,0 +1,370 @@
+2017-12-06T10:30:03+00:00 CRITICAL Call to a member function have_posts() on array
+
+2017-12-08T08:13:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T08:15:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T08:18:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T08:20:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T08:24:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-08T08:28:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-11T06:40:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-12-26T07:04:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-02T22:51:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:10:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:11:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:19:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:19:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:19:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-01-12T16:48:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-02-15T05:49:51+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-15T07:31:34+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-15T07:42:42+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-15T09:11:53+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-16T15:38:17+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-16T15:38:41+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-28T14:40:34+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-28T15:31:31+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-02-28T15:32:01+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-03T22:15:14+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-03T22:15:21+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-03T22:15:31+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-03T22:15:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-03T22:29:43+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-03T22:29:44+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-05T23:01:15+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-05T23:01:15+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-12T15:52:56+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T13:25:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:26:43+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T13:26:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:27:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:27:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:27:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:27:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T13:27:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-13T14:44:53+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:45:02+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:45:13+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:45:13+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:45:14+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:47:26+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:47:52+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:48:01+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:49:44+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:49:53+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:50:17+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:51:28+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:51:31+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-13T14:54:35+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_available_variations()
+
+2018-03-14T15:19:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T15:19:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T16:22:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T16:32:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T17:42:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T17:47:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T17:52:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T17:52:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T17:54:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:05:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:05:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:06:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:06:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:07:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:07:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:07:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:13:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:14:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:24:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:25:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:44:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:44:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T18:44:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-14T20:06:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-15T13:37:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-15T13:39:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-15T17:42:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-15T20:45:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-16T11:20:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-16T11:59:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-16T12:00:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-16T12:39:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-17T19:21:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-17T19:22:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-17T19:23:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-17T19:23:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-19T11:30:54+00:00 CRITICAL Call to undefined function readCSV()
+
+2018-03-19T11:32:29+00:00 CRITICAL Call to undefined function readCSV()
+
+2018-03-19T11:33:52+00:00 CRITICAL Call to undefined function readCSV()
+
+2018-03-19T12:10:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-19T12:55:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-19T12:58:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-20T02:04:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-20T02:18:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-20T02:29:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-20T02:32:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-20T17:53:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T05:51:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T05:52:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T05:54:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T05:55:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T05:56:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T06:51:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-21T06:55:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-22T06:41:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-22T06:42:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-23T08:58:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-03-23T09:04:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:23:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:24:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:26:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:26:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:26:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:27:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:27:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:29:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-09T09:29:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-17T12:24:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-04-23T10:02:05+00:00 CRITICAL Class 'WC_Gateway_Stripe' not found
+
+2018-04-23T10:02:10+00:00 CRITICAL Class 'WC_Gateway_Stripe' not found
+
+2018-04-23T10:02:39+00:00 CRITICAL Class 'WC_Gateway_Stripe_Bancontact' not found
+
+2018-05-03T02:47:56+00:00 CRITICAL Call to a member function get_total() on string
+
+2018-05-03T02:50:52+00:00 CRITICAL Call to a member function get_total() on string
+
+2018-05-03T02:51:00+00:00 CRITICAL Call to a member function get_total() on string
+
+2018-05-03T02:52:05+00:00 CRITICAL Call to a member function get_total() on string
+
+2018-05-03T02:55:13+00:00 CRITICAL Call to a member function get_total() on string
+
+2018-05-14T12:27:56+00:00 CRITICAL Call to a member function get_id() on boolean
+
+2018-05-14T12:27:56+00:00 CRITICAL Call to a member function get_id() on boolean
+
+2018-05-14T12:35:25+00:00 CRITICAL Call to a member function get_id() on boolean
+
+2018-05-15T09:18:13+00:00 CRITICAL Call to undefined function josn_encode()
+
+2018-05-15T09:19:10+00:00 CRITICAL Call to undefined function josn_encode()
+
+2018-05-15T09:21:18+00:00 CRITICAL Call to undefined function josn_encode()
+
+2018-05-29T09:33:38+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_YFQCPHR2Cdz0RH'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T09:34:53+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_bpO4q4QKtPJ1cW'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T09:35:08+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_NlgFiaEPx4yrTd'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T09:38:49+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_L6zj594YYB3qu4'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T09:39:45+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_giRqgrowScCd8v'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T10:18:33+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_siha3tfUEKgFBC'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T10:48:37+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_PHugoYCXnWit1M'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T10:49:00+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such customer: acct_1CX47fKYvKS2OruH' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_XFhFKYokV428c8'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 404, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 404, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 404, Array)
+#3 /home1/cgsthemes/public_html/lefemme/wp-
+
+2018-05-29T11:04:08+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'Invalid string: {:account=>"'.acct_1CX47fKYvKS2OruH.'"}' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_mWyXzdOsOlIeBI'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 /home1/cgsthemes/public_
+
+2018-05-29T11:04:37+00:00 CRITICAL Uncaught exception 'Stripe\Error\InvalidRequest' with message 'No such destination: '.acct_1CX47fKYvKS2OruH.'' in /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php:124 from API request 'req_oO19FisM0lnzL1'
+Stack trace:
+#0 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(102): Stripe\ApiRequestor::_specificAPIError('{\n  "error": {\n...', 400, Array, Array, Array)
+#1 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(307): Stripe\ApiRequestor->handleErrorResponse('{\n  "error": {\n...', 400, Array, Array)
+#2 /home1/cgsthemes/public_html/lefemme/wp-content/themes/internationalprom-theme/stripe-php/vendor/stripe/stripe-php/lib/ApiRequestor.php(65): Stripe\ApiRequestor->_interpretResponse('{\n  "error": {\n...', 400, Array)
+#3 /home1/cgsthemes/public_html/lefe
+
+2018-07-14T06:05:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-16T06:45:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-16T06:45:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-16T06:46:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-17T08:45:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-17T08:51:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
