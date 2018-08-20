@@ -135,9 +135,8 @@
                 'post_type' => 'post',
                 'posts_per_page' => 1,
                 'post_status' => 'publish',
-                /*'meta_key' => 'featured',
-                'meta_value' => 1,
-                'meta_compare' => '=',*/
+                'meta_key' => 'featured',
+                'meta_value' => true,
                 'paged' => 1
             );
             $the_query = new WP_Query( $args );
@@ -215,9 +214,9 @@
                 'post_type' => 'post',
                 'posts_per_page' => 1,
                 'post_status' => 'publish',
-                /*'meta_key' => 'featured',
+                'meta_key' => 'featured',
                 'meta_value' => 1,
-                'meta_compare' => '=',*/
+                'meta_compare' => '=',
                 'paged' => 2
             );
             $the_query = new WP_Query( $args );
@@ -296,9 +295,9 @@
                 'post_type' => 'post',
                 'posts_per_page' => 1,
                 'post_status' => 'publish',
-                /*'meta_key' => 'featured',
+                'meta_key' => 'featured',
                 'meta_value' => 1,
-                'meta_compare' => '=',*/
+                'meta_compare' => '=',
                 'paged' => 3
             );
             $the_query = new WP_Query( $args );
