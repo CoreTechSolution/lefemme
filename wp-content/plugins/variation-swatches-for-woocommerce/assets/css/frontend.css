@@ -8,6 +8,18 @@
 	padding: 5px;
 }
 
+.tawcvs-swatches ul {
+	margin: 0;
+	padding: 0;
+}
+
+.tawcvs-swatches ul li {
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+	padding: 0 10px;
+}
+
 .tawcvs-swatches .swatch {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -16,7 +28,7 @@
 	transition: all 0.3s;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
-	border-radius: 50%;
+	border-radius: 100%;
 	display: inline-block;
 	width: 30px;
 	height: 30px;
@@ -24,7 +36,7 @@
 	text-align: center;
 	margin-right: 15px;
 	cursor: pointer;
-	border: 1px solid transparent;
+	border: 1px solid #222222;
 	position: relative;
 	opacity: 0.5;
 }
