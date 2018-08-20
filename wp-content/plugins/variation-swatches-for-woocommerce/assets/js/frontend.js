@@ -23,7 +23,7 @@
 
 					// Check if this combination is available
 					if ( ! $select.find( 'option[value="' + value + '"]' ).length ) {
-						$el.siblings( '.swatch' ).removeClass( 'selected' );
+                        $el.closest( '.value' ).find( '.swatch' ).removeClass( 'selected' );
 						$select.val( '' ).change();
 						$form.trigger( 'tawcvs_no_matching_variations', [$el] );
 						return;
@@ -41,7 +41,7 @@
 
 						delete selected[selected.indexOf(attribute_name)];
 					} else {
-						$el.addClass( 'selected' ).siblings( '.selected' ).removeClass( 'selected' );
+						$el.addClass( 'selected' ).closest( 'li' ).siblings().find( '.selected' ).removeClass( 'selected' );
 						$select.val( value );
 					}
 
