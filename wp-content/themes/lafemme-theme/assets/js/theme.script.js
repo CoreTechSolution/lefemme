@@ -325,7 +325,6 @@ jQuery(document).ready(function() {
 });
 
 jQuery(document).ready(function() {
-    jQuery('select#pa_size').addClass('form-control');
     jQuery('.lafemme_drop_country select#country').on('change', function(){
         var country = jQuery('.lafemme_drop_country select#country').val();
         jQuery.ajax({
