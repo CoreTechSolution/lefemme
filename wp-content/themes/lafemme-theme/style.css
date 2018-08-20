@@ -1898,10 +1898,6 @@ label.error {
     display: block;
     margin: 10px 0;
 }
-.tawcvs-swatches .swatch {
-    border: 1px solid #222222 !important;
-    border-radius: 0 !important;
-}
 .woocommerce div.product form.cart .reset_variations {
     display: block;
     color: #ffffff;
@@ -2084,10 +2080,6 @@ body .fancybox-close:after {
     text-transform: uppercase;
 }
 
-/* Color Swatches */
-.tawcvs-swatches .swatch {
-    border-radius: 100% !important;
-}
 
 /* Newsletter Popup */
 .newsletter_content_wrap {
@@ -2133,4 +2125,21 @@ body .fancybox-close:after {
 }
 .newsletter_wrapper1 {
     background-color: #fff4ef;
+}
+.woocommerce div.product p.price {
+    font-size: 23px !important;
+    font-weight:300;
+    color: #222222;
+}
+.woocommerce div.product form.cart .variations {
+    width: 70%;
+}
+.woocommerce div.product form.cart .reset_variations {
+    display: none !important;
+}
+.woocommerce button.button {
+    font-weight: 400 !important;
+}
+.woocommerce .product_meta span.posted_in {
+    width: 75% !important;
 }
