@@ -46,6 +46,9 @@
 					}
 
 					$select.change();
+
+					var title = $el.attr('title');
+                    $('.tawcvs-swatches ul li.show_name').text(title);
 				} )
 				.on( 'click', '.reset_variations', function () {
 					$( this ).closest( '.variations_form' ).find( '.swatch.selected' ).removeClass( 'selected' );
