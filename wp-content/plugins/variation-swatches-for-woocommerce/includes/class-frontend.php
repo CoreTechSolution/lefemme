@@ -89,7 +89,7 @@ class TA_WC_Variation_Swatches_Frontend {
 			if ( ! empty( $swatches ) ) {
 				$class .= ' hidden';
 
-				$swatches = '<div class="tawcvs-swatches" data-attribute_name="attribute_' . esc_attr( $attribute ) . '"><ul>' . $swatches . '</ul></div>';
+				$swatches = '<div class="tawcvs-swatches" data-attribute_name="attribute_' . esc_attr( $attribute ) . '"><ul>' . $swatches . '<li class="show_name"></li></ul></div>';
 				$html     = '<div class="' . esc_attr( $class ) . '">' . $html . '</div>' . $swatches;
 			}
 		}
@@ -118,9 +118,9 @@ class TA_WC_Variation_Swatches_Frontend {
 				$color1 = get_term_meta($term->term_id, 'color1', true);
 				list( $r, $g, $b ) = sscanf( $color, "#%02x%02x%02x" );
 				if($another_color_check == 1) {
-					$html = '<li><span class="swatch swatch-color swatch-'.esc_attr( $term->slug ).' '.$selected.'" style="background-color:'.esc_attr( $color ).';background-image: -webkit-linear-gradient(30deg, '.esc_attr( $color ).' 50%, '.esc_attr( $color1 ).' 50%);color:rgba('.$r.','.$g.','.$b.',0.5);" title="'.esc_attr( $name ).'" data-value="'.esc_attr( $term->slug ).'">'.$name.'</span><br/>'.$name.'</li>';
+					$html = '<li><span class="swatch swatch-color swatch-'.esc_attr( $term->slug ).' '.$selected.'" style="background-color:'.esc_attr( $color ).';background-image: -webkit-linear-gradient(30deg, '.esc_attr( $color ).' 50%, '.esc_attr( $color1 ).' 50%);color:rgba('.$r.','.$g.','.$b.',0.5);" title="'.esc_attr( $name ).'" data-value="'.esc_attr( $term->slug ).'">'.$name.'</span></li>';
 				} else {
-					$html = '<li><span class="swatch swatch-color swatch-'.esc_attr( $term->slug ).' '.$selected.'" style="background-color:'.esc_attr( $color ).';color:rgba('.$r.','.$g.','.$b.',0.5);" title="'.esc_attr( $name ).'" data-value="'.esc_attr( $term->slug ).'">'.$name.'</span><br/>'.$name.'</li>';
+					$html = '<li><span class="swatch swatch-color swatch-'.esc_attr( $term->slug ).' '.$selected.'" style="background-color:'.esc_attr( $color ).';color:rgba('.$r.','.$g.','.$b.',0.5);" title="'.esc_attr( $name ).'" data-value="'.esc_attr( $term->slug ).'">'.$name.'</span></li>';
 				}
 				/*list( $r, $g, $b ) = sscanf( $color, "#%02x%02x%02x" );
 				$html = sprintf(
